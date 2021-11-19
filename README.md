@@ -36,16 +36,16 @@
 
 ## 🤔 What I am Up To
 
-- 🔭 I'm currently working on Microsoft Imagine Cup Project.
+- 🔭 I'm currently working on Dolby Hackathon Project
 - 🌱 I'm currently learning Web development and Cloud Computing.
 - 👯 I'm Looking to collaborate with other developers to design meaningful projects
 
 ## 📫 Contact Me:
 You can reach me at the following platforms linked below!
 
-[<img src="./socials/linkedin.png" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Hussain 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Kunal 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/kunal-sangtiani-4373581bb/)
-[<img src="./socials/instagram.svg" height="40em" align="center" alt="𝙵𝚘𝚕𝚕𝚘𝚠 Kunal 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" title="𝙵𝚘𝚕𝚕𝚘𝚠 Hussain 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](https://www.instagram.com/kunalsangtiani1/)
-[<img src="./socials/gmail.png" height="45em" align="center" alt="Email Kunal" title="Email Hussain"/>](mailto:ksangtiani03@gmail.com)
+[<img src="./socials/linkedin.png" height="40em" align="center" alt="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Kunal 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" title="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 Kunal 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](https://www.linkedin.com/in/kunal-sangtiani-4373581bb/)
+[<img src="./socials/instagram.svg" height="40em" align="center" alt="𝙵𝚘𝚕𝚕𝚘𝚠 Kunal 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" title="𝙵𝚘𝚕𝚕𝚘𝚠 kunal 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](https://www.instagram.com/kunalsangtiani1/)
+[<img src="./socials/gmail.png" height="45em" align="center" alt="Email Kunal" title="Email kunal"/>](mailto:ksangtiani03@gmail.com)
 
 ## 📊 GitHub Stats
 ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunals131&show_icons=true&theme=radical)
