@@ -36,8 +36,8 @@
 
 ## 🤔 What I am Up To
 
-- 🔭 I'm currently working on Dolby Hackathon Project
-- 🌱 I'm currently learning Web development and Cloud Computing.
+- 🔭 I'm currently working on Slack Hacakthon Project
+- 🌱 I'm currently learning Web development.
 - 👯 I'm Looking to collaborate with other developers to design meaningful projects
 
 ## 📫 Contact Me:
