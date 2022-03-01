@@ -8,8 +8,7 @@
 ``` 
 { 
   "name" : "Kunal Sangtiani", 
-  "pronouns" : "He/Him", 
-  "school" : "Institute of Engineering and Technology, DAVV", 
+  "college" : "Institute of Engineering and Technology, DAVV", 
   "program" : "Information Technology", 
   "year" : "Second Year Student", 
   "goal" : "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World" 
