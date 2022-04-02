@@ -33,11 +33,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## 🤔 What I am Up To
-
-- 🔭 I'm currently working on Slack Hackathon Project
-- 🌱 I'm currently learning Web development.
-- 👯 I'm Looking to collaborate with other developers to design meaningful projects
 
 ## 📫 Contact Me:
 You can reach me at the following platforms linked below!
