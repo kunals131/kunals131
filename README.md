@@ -1,4 +1,4 @@
-[<img src="./Introduction2.gif" alt="👋 Hey! I'm Kunal Sangtiani | https://kunalsangtiani.me/" title="👋 Hey! I'm Kunal Sangtiani|https://kunalsangtiani.me" align="center"/>](https://www.kunalsangtiani.me/)
+[<img src="./Introduction2.gif" alt="👋 Hey! I'm Kunal Sangtiani | https://kunaldev.vercel.app/" title="👋 Hey! I'm Kunal Sangtiani|https://kunalsangtiani.me" align="center"/>](https://kunaldev.vercel.app/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kunals131&color=03254c)
 
